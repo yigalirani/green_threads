@@ -4,7 +4,7 @@ green_threads
 C++ Green threads and coroutines library
 
 **Motivation:**
-* White faster multithreaded programs by utilizing reduced context switch time.
+* Write faster multithreaded programs by utilizing reduced context switch time.
 * Write shorter and more elegant programs by using the yield functionality that is modeled after the python yield keyword and co-routines.
 
 **Getting started:**
