@@ -20,7 +20,7 @@ void print_integrers(int start,int end){
         if (e.cur%10000000==0)
             printf("%d\n",e.cur);
 }
-//this test program create one grean thread. It enumerate though integers and post them using the gt_yield
+//this test program create one green thread. It enumerate though a range integers and post each using the gt_yield
 void main(){
     gt_init();
     print_integrers(10,100000000);
