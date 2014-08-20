@@ -14,6 +14,8 @@ look at the very short [api](https://github.com/yigalirani/green_threads/blob/ma
 * Integrate the library with IO functionality like sockets and files
 * Further improve speed .
 * Add dynamic number of green threads.
+* Port to non msvc/windows compilers and operating systems.
+* Port to non-x86 processors such as arm.
 
 **How does it work:**
 
